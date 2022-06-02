@@ -7,6 +7,7 @@
     {"id":{"name":"spr_kid","path":"sprites/spr_kid/spr_kid.yy",},"order":4,},
     {"id":{"name":"obj_erase2","path":"objects/obj_erase2/obj_erase2.yy",},"order":8,},
     {"id":{"name":"spr_erase","path":"sprites/spr_erase/spr_erase.yy",},"order":3,},
+    {"id":{"name":"obj_bridgecontrol2","path":"objects/obj_bridgecontrol2/obj_bridgecontrol2.yy",},"order":10,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
     {"id":{"name":"Credits","path":"notes/Credits/Credits.yy",},"order":0,},
     {"id":{"name":"obj_erase","path":"objects/obj_erase/obj_erase.yy",},"order":6,},
