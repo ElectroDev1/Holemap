@@ -1,0 +1,1 @@
+x=xstart+sin(current_time*0.005)*20;
