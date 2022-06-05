@@ -1,6 +1,6 @@
 # HOLEMAP
 <p align="center">
-  <img width="200px" src="https://github.com/ElectroDev1/Holemap/blob/main/holemap_logo.png">
+  <img width="350px" src="https://github.com/ElectroDev1/Holemap/blob/main/holemap_logo.png">
 </p>
 
 <br>
