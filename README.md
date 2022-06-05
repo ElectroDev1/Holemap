@@ -38,4 +38,6 @@ Holemap is licensed under the <a href="https://github.com/ElectroDev1/Holemap/bl
 <br><br>
 Holemap made by <a href="https://github.com/ElectroDev1">Electro</a>
 <br>
+Thanks to <a href="https://github.com/gedehari">Sqirra</a> for coming up with the name
+<br>
 Originally made for <a href="https://github.com/GateteVerde">Gate</a>
