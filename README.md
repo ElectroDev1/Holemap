@@ -27,7 +27,7 @@ These buffers, called "Holemaps", are saved in a global map when they're created
 
 # SETTING UP
 <p>
-Setting up Holemap is super easy, simply <a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.0">Download the yymps </a>, open your project, drag the yymps into Gamemaker and import everything, and you're done! Holemap automatically initialises itself right before the game starts.
+Setting up Holemap is super easy, simply <a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.0">download the yymps </a>, open your project, drag the yymps into Gamemaker and import everything, and you're done! Holemap automatically initialises itself right before the game starts.
 <br><br><br>But of course, we aren't done yet, what about creating and using these "Holemaps"?
 <br>
 To create a Holemap, you need to use the Holemap() function and assign it to a variable
