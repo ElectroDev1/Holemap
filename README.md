@@ -9,7 +9,7 @@ Every buffer is also stored in memory and can be easily retrieved or deleted.
   <br>
   The project file contains 5 different examples on how Holemap can be used, from scaling to clipping.
   <br><br>
-  Made by Electro<br><br>
+  Made by <a href="https://github.com/ElectroDev1"><strong>Electro</strong></a><br><br>
   <a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.0"><strong>Download the yymps</strong></a> 
 </p>
 <hr>
