@@ -26,14 +26,16 @@ To create Holemaps, simply use the Holemap() function and assign it to a variabl
 # EXAMPLE
 
 The <a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.0">release</a> and the project file in the repository contain a small example that shows 5 different ways Holemaps can be used
-<p align="center" style="margin-top:20px;">
-  <img src="https://github.com/ElectroDev1/Holemap/blob/main/showcase_v1.1.gif">
+<p align="center">
+  <img width="400px" height="400px" src="https://github.com/ElectroDev1/Holemap/blob/main/showcase_v1.1.gif">
 </p>
 
 <hr></hr>
 
-# CREDITS
+# ABOUT AND CREDITS
 
+Holemap is licensed under the <a href="https://github.com/ElectroDev1/Holemap/blob/main/LICENSE.md">MIT license</a>
+<br><br>
 Holemap made by <a href="https://github.com/ElectroDev1">Electro</a>
 <br>
 Originally made for <a href="https://github.com/GateteVerde">Gate</a>
