@@ -9,7 +9,7 @@
 
  </p>
  
-<h2 align="center"><a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.0">Download the yymps </a></h2>
+<h2 align="center"><a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.1">Download the yymps </a></h2>
 
 <hr>
 
@@ -27,7 +27,7 @@ These buffers, called "Holemaps", are saved in a global map when they're created
 
 # SETTING UP
 <p>
-Setting up Holemap is super easy, simply <a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.0">download the yymps </a>, open your project, drag the yymps into Gamemaker and import everything, and you're done! Holemap automatically initialises itself right before the game starts.
+Setting up Holemap is super easy, simply <a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.1">download the yymps </a>, open your project, drag the yymps into Gamemaker and import everything, and you're done! Holemap automatically initialises itself right before the game starts.
 <br><br><br>But of course, we aren't done yet, what about creating and using these "Holemaps"?
 <br>
 To create a Holemap, you need to use the Holemap() function and assign it to a variable
@@ -54,7 +54,7 @@ myHolemap = Holemap(layer name,Holemap name);
   Tip: while all this code is supposed to be in an object's Create event, it's always good to check if the surface exists and recreate it if it doesn't exist anymore.
   
   <br>
-  And now you're done! You can use the mySurface variable just like any regular surface and apply all sorts of effect to it, make sure to check the <a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.0">release</a> to see how to apply some basic effects to your Holemaps.
+  And now you're done! You can use the mySurface variable just like any regular surface and apply all sorts of effect to it, make sure to check the <a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.1">release</a> to see how to apply some basic effects to your Holemaps.
   
   <br>
  
@@ -70,7 +70,7 @@ myHolemap = Holemap(layer name,Holemap name);
 
 # EXAMPLE
 
-The <a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.0">release</a> and the project file in the repository contain a small example that showcases 5 different ways Holemaps can be used, these include:
+The <a href="https://github.com/ElectroDev1/Holemap/releases/tag/v1.1.1">release</a> and the project file in the repository contain a small example that showcases 5 different ways Holemaps can be used, these include:
 - Drawing multiple copies of a Holemap
 - Applying basic scaling, rotation, color adjustment, and alpha fading of a Holemap (shown in the gif below)
 - Applying blend modes to a Holemap
