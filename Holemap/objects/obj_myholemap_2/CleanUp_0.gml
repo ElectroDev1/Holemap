@@ -1,2 +1,2 @@
-Holemap_surface_free(mySurf);
+surface_free(mySurf);
 Holemap_free("Tilemap");

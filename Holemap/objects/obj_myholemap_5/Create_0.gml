@@ -1,4 +1,4 @@
-/// @description Multiple copies
+/// @description Clip graphics to Holemap
 
 myHolemap = Holemap("Tiles","Tilemap");
 mySurf = Holemap_surface(myHolemap);

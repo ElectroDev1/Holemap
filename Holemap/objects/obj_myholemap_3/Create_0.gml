@@ -1,4 +1,4 @@
-/// @description Multiple copies
+/// @description Apply blend modes to Holemap
 
 myHolemap = Holemap("Tiles","Tilemap");
 mySurf = Holemap_surface(myHolemap);

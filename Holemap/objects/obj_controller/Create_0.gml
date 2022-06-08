@@ -1,3 +1,4 @@
+show_debug_overlay(true)
 ROOMS=[
 "No Holemap",
 "Multiple copies of one Holemap",
