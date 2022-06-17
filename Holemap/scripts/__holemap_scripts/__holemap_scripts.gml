@@ -75,7 +75,7 @@ function Holemap_layerEnd(lay,name){//Operate on the layer to finalize the Holem
 	surface_set_target(object.tempsurf);
   
 		if(!is_string(lay)){show_error("layer entry must be a string",true);}
-		var _tilemap = layer_tilemap_get_id(layer_get_id(lay));
+		var _tilemap = layer_tilemap_get_id_fixed(layer_get_id(lay));
 		draw_tilemap(_tilemap,0,0);
 				
 	surface_reset_target();                
